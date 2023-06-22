@@ -1,0 +1,214 @@
+{
+	"language": "spanish",
+	"towns-AD":
+	[
+		{
+			"region_name": "Andorra la Vella",
+			"town_name": "Andorra la Vella"
+		},
+		{
+			"region_name": "Andorra la Vella",
+			"town_name": "Margineda, La"
+		},
+		{
+			"region_name": "Andorra la Vella",
+			"town_name": "Santa Coloma (Andorra)"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Canillo"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Forn, El"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Incles"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "L'aldosa"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Meritxell"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Plans, Els"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Prats"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Ransol"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Soldeu"
+		},
+		{
+			"region_name": "Canillo",
+			"town_name": "Tarter, El"
+		},
+		{
+			"region_name": "Encamp",
+			"town_name": "Bons, Les"
+		},
+		{
+			"region_name": "Encamp",
+			"town_name": "Encamp"
+		},
+		{
+			"region_name": "Encamp",
+			"town_name": "Grau Roig"
+		},
+		{
+			"region_name": "Encamp",
+			"town_name": "Mosquera, La"
+		},
+		{
+			"region_name": "Encamp",
+			"town_name": "Pas de la Casa"
+		},
+		{
+			"region_name": "Encamp",
+			"town_name": "Tremat, Le"
+		},
+		{
+			"region_name": "Encamp",
+			"town_name": "Vila"
+		},
+		{
+			"region_name": "Escaldes-Engordany",
+			"town_name": "Engolasters"
+		},
+		{
+			"region_name": "Escaldes-Engordany",
+			"town_name": "Escaldes-Engordany"
+		},
+		{
+			"region_name": "Escaldes-Engordany",
+			"town_name": "Fener, El"
+		},
+		{
+			"region_name": "Escaldes-Engordany",
+			"town_name": "Vilars d'Engordany"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Anyos"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Arinsal"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "El Pui"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Erts"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Escas"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "L'Aldosa (Andorra)"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Mas de Ribafeta"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Massana, La"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Pal"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Puiol del Piu"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Sispony"
+		},
+		{
+			"region_name": "Massana, La",
+			"town_name": "Xixirella"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Arans"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Asalonga"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Cortinada, La"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Llorts"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Ordino"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Salines, Les"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Segudet"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Serrat, El"
+		},
+		{
+			"region_name": "Ordino",
+			"town_name": "Sornas"
+		},
+		{
+			"region_name": "Sant Julià de Lòria",
+			"town_name": "Auvigny"
+		},
+		{
+			"region_name": "Sant Julià de Lòria",
+			"town_name": "Bissisarri"
+		},
+		{
+			"region_name": "Sant Julià de Lòria",
+			"town_name": "Certes"
+		},
+		{
+			"region_name": "Sant Julià de Lòria",
+			"town_name": "Fontaneda"
+		},
+		{
+			"region_name": "Sant Julià de Lòria",
+			"town_name": "Juberri"
+		},
+		{
+			"region_name": "Sant Julià de Lòria",
+			"town_name": "Nagol"
+		},
+		{
+			"region_name": "Sant Julià de Lòria",
+			"town_name": "Sant Julià de Lòria"
+		}
+	]
+}
